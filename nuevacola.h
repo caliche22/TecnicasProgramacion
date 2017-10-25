@@ -15,7 +15,7 @@ class nuevacola{
 		Proceso getfirst();
 		void mostrar();
 		bool emp();
-		bool comparar();
+		//bool comparar(Proceso p,Proceso q); hay un error cuando pongo esta cosa
 };
 #endif
 
